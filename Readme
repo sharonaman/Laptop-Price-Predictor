@@ -1,0 +1,5 @@
+Use Python 3.8 
+Create Venv
+Activate Venv
+pip install -r requirement.txt
+sh setup.sh && streamlit run app.py
